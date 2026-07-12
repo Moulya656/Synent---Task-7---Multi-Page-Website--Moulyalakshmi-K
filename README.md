@@ -1,5 +1,5 @@
 # Synent---Task-7---Multi-Page-Website--Moulyalakshmi-K
- Multi-Page Website
+
 # Multi-Page Website
 
 This is a responsive multi-page website developed using HTML and CSS as part of my Web Development & Designing Internship task. The website demonstrates a clean user interface, responsive layouts, and navigation between multiple web pages.
